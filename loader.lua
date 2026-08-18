@@ -26,7 +26,7 @@ local DISCORD = "discord.gg/yourserver"
 
 -- GANTI DENGAN REPOSITORY GITHUB KAMU
 local BLOXFRUITS_URL =
-    "https://raw.githubusercontent.com/USERNAME/REPO/main/Games/BloxFruits.lua"
+    "https://raw.githubusercontent.com/AcilOfficial/AcilHub/main/Games/BloxFruits.lua"
 
 -- Blox Fruits Game ID
 local BLOXFRUITS_GAME_ID = 2753915549
